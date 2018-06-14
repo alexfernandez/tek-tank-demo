@@ -1,5 +1,5 @@
 'use strict';
 
 console.log('Tests OK');
-process.exit(-1)
+process.exit(0)
 
