@@ -1,3 +1,3 @@
 # tek-tank-demo
 
-Demo for Tek-Tank
+Cool demo for Tek-Tank.
